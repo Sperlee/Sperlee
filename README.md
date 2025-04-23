@@ -4,7 +4,6 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-sperle-23107630a/)
 
 ![Sperlee GitHub stats](https://github-readme-stats.vercel.app/api?username=Sperlee&show_icons=true&theme=merko)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sperlee&layout=compact&langs_count=7&theme=merko" alt="Linguagens mais usadas" height="190px" />
 
 
 
